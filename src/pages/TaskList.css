@@ -1,0 +1,15 @@
+.completed h2 {
+    text-decoration: line-through;
+}
+
+.column-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }

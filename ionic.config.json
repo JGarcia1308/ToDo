@@ -1,0 +1,7 @@
+{
+  "name": "07243032_Actividad5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
